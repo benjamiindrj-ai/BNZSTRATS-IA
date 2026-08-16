@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix BNZ IA",
+  "description": "Générateur et optimiseur IA de stratégies pour les jeux originaux Stake, simulateur et contrôleur de Bot Telegram, exécution d\u0027auto-bet API et suivi analytique des gains en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
